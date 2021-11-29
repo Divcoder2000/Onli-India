@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:weightSum="3"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.85"
+        android:background="@drawable/saffron"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INDIA"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.3"
+        android:gravity="center">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <Button
+                android:id="@+id/button_news"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingVertical="10dp"
+                android:text="News"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                app:backgroundTint="#000080"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/button_wars"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingVertical="10dp"
+                android:text="WARS"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                app:backgroundTint="#000080"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/button_rivers"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingVertical="10dp"
+                android:text="RIVERS"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                app:backgroundTint="#000080"
+                app:layout_constraintStart_toStartOf="@+id/button_news"
+                app:layout_constraintTop_toBottomOf="@+id/button_news" />
+
+            <Button
+                android:id="@+id/button_articles"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingVertical="10dp"
+                android:text="ARTICLES"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                app:backgroundTint="#000080"
+                app:layout_constraintEnd_toEndOf="@+id/button_wars"
+                app:layout_constraintTop_toBottomOf="@+id/button_wars" />
+
+            <Button
+                android:id="@+id/button_constitution"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:paddingVertical="10dp"
+                android:text="CONSTITUTION"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                app:backgroundTint="#000080"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.497"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/button_rivers" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.85"
+        android:background="@drawable/green" />
+
+
+</LinearLayout>

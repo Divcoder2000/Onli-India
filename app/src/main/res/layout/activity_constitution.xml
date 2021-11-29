@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:id="@+id/RelativeLayout01"
+        android:layout_height="2500dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/tri_color">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/tri_color"
+            android:gravity="center"
+            android:text="Indian constitution and Preamble"
+            android:textColor="#000080"
+            android:textSize="48sp" />
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="307dp"
+            android:layout_height="75dp"
+            android:layout_below="@id/textView"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="27dp"
+            android:layout_marginLeft="27dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="26dp"
+            android:layout_marginRight="26dp"
+            android:background="@drawable/textview_border"
+            android:gravity="center"
+            android:text="Indian Constitution"
+            android:textColor="#000080"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="168dp"
+            android:layout_height="25dp"
+            android:layout_below="@id/textView2"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="4dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="239dp"
+            android:layout_marginRight="239dp"
+            android:text="   Introduction"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="237dp"
+            android:layout_height="230dp"
+            android:layout_below="@id/textView3"
+            android:layout_marginTop="2dp"
+            android:text="•   On August 29, 1947, the Constituent Assembly set up a Drafting Committee under the Chairmanship of Dr. B.R. Ambedkar to prepare a Draft "
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="216dp"
+            android:layout_height="262dp"
+            android:layout_above="@+id/textView5"
+            android:layout_below="@+id/textView2"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="-10dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="-7dp"
+            android:layout_marginRight="-7dp"
+            android:layout_marginBottom="6dp"
+            android:layout_toRightOf="@id/textView4"
+            app:srcCompat="@drawable/image" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="397dp"
+            android:layout_height="148dp"
+            android:layout_below="@id/textView4"
+            android:layout_marginTop="2dp"
+            android:text="Constitution for India. While deliberating upon the draft Constitution, the Assembly held 11 sessions covering a total of 165 days."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView5"
+            android:layout_marginTop="1dp"
+            android:text="•  395 articles :-The original text of the Constitution contained 395 articles in 22 parts and eight schedules. It came into effect on January 26, 1950, the day that India celebrates each year as the Republic Day. The number of articles has since increased to 448 due to 100 amendments."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView6"
+            android:layout_marginTop="15dp"
+            android:text="Who appoints the governor?"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView7"
+            android:layout_marginTop="2dp"
+            android:text="•  The Governor of a State shall be appointed by the President by warrant under his hand and seal (Article 155). A person to be eligible for appointment as Governor should be citizen of India and has completed age of 35 years (Article 157)."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView8"
+            android:layout_marginTop="15dp"
+            android:text="How many sections are there in IPC?"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView9"
+            android:layout_marginTop="2dp"
+            android:text="•  There are 576 IPC sections in total."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView10"
+            android:layout_marginTop="15dp"
+            android:text="Why is Ambedkar called Babasaheb?"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView11"
+            android:layout_marginTop="2dp"
+            android:text='•  "Babasaheb" is a Marathi phrase which means "Respected Father" (Baba = father and Saheb = sir). This epithet is commonly applied to B. R. Ambedkar.'
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView12"
+            android:layout_marginTop="15dp"
+            android:text="What are the 7 fundamental rights of India?"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView13"
+            android:layout_marginTop="2dp"
+            android:text="•  Seven fundamental rights were originally provided by the Constitution – the right to equality, right to freedom, right against exploitation, right to freedom of religion, cultural and educational rights, right to property and right to constitutional remedies."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView14"
+            android:layout_marginTop="15dp"
+            android:text="How many laws India have?"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView15"
+            android:layout_marginTop="2dp"
+            android:text="•  As of January 2017, there were about 1,248 laws. However, since there are Central laws as well as State laws, it is difficult to ascertain their exact numbers as on a given date and the best way to find the Central Laws in India is from the official websites."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView16"
+            android:layout_marginTop="15dp"
+            android:text="How many amendments are there?"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView17"
+            android:layout_marginTop="2dp"
+            android:text="•  The US Constitution has 27 amendments that protect the rights of Americans. Do you know them all? The US Constitution was written in 1787 and ratified in 1788. In 1791, the Bill of Rights was also ratified with 10 amendments."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="307dp"
+            android:layout_height="75dp"
+            android:layout_below="@id/textView18"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="27dp"
+            android:layout_marginLeft="27dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="26dp"
+            android:layout_marginRight="26dp"
+            android:background="@drawable/textview_border"
+            android:gravity="center"
+            android:text="Preamble"
+            android:textColor="#000080"
+            android:textSize="34sp"
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView19"
+            android:layout_marginTop="15dp"
+            android:text="Who wrote preamble of Indian Constitution?"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView22"
+            android:layout_marginTop="2dp"
+            android:text="•  The preamble is based on the 'Objectives Resolution which  was drafted and moved in the Constituent Assembly by Jawaharlal  Nehru on 13 December 1946 and adopted by Constituent Assembly on  22 January 1947."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView23"
+            android:layout_marginTop="15dp"
+            android:text="How many Preamble are there in Indian Constitution?"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView24"
+            android:layout_marginTop="2dp"
+            android:text="•  The 73-word Preamble to the Constitution of India outlines the  ideals that must guide Indian democracy. Together with the  Directive Principles of State Policy, it provides the context  in which the country can achieve the fundamental rights  guaranteed by the Constitution."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView25"
+            android:layout_marginTop="15dp"
+            android:text="What are the main points of Preamble?"
+            android:textColor="#000080"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView26"
+            android:layout_marginTop="2dp"
+            android:text="•  The Preamble thus does much more than tell us that the document is to  be called the “Constitution” and establish a government."
+            android:textColor="#000080"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="203dp"
+            android:layout_height="372dp"
+            android:layout_below="@id/textView29"
+            app:srcCompat="@drawable/preamble"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="5dp"/>
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView6"
+            android:layout_marginTop="5dp"
+            android:text="•  The Preamble describes the core values that the Constitution exists to achieve: democratic government, effective governance, justice, freedom, and equality."
+            android:textColor="#000080"
+            android:textSize="24sp"
+            tools:ignore="DuplicateIds" />
+
+
+    </RelativeLayout>
+</ScrollView>

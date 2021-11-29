@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NewsInfoActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/newsInfo_source"
+                android:background="@color/normal_bg_inverse"
+                android:textColor="@color/normal_bg"
+                style="@style/TextAppearance.MaterialComponents.Overline"
+                android:textSize="12sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingVertical="10dp"
+                android:paddingHorizontal="30dp"
+                android:textStyle="bold"
+                tools:text="Times of India" />
+
+
+            <TextView
+                android:id="@+id/newsInfo_title"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:textSize="24sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="20dp"
+                android:paddingVertical="10dp"
+                tools:text="Kevin McCarthy gives longest House floor speech in history delaying Build Back Better vote - CNN" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/normal_bg_inverse"
+                />
+            <TextView
+                android:id="@+id/newsInfo_author"
+                style="@style/TextAppearance.MaterialComponents.Caption"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="30dp"
+                android:paddingTop="10dp"
+                tools:text="Written: Clare Foran, Manu Raju and Morgan Rimmer, CNN"
+                />
+            <TextView
+                android:id="@+id/newsInfo_date"
+                style="@style/TextAppearance.MaterialComponents.Caption"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="30dp"
+                android:paddingBottom="10dp"
+                tools:text="Published: 2021-11-19 12:01:00"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/normal_bg_inverse"
+                />
+
+            <TextView
+                android:id="@+id/newsInfo_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingVertical="20dp"
+                android:paddingHorizontal="30dp"
+                android:textSize="16sp"
+                style="@style/TextAppearance.MaterialComponents.Body1"
+                tools:text="House Democrats pushed back a vote on President Joe Biden's plan to dramatically expand the social safety net after House Minority Leader Kevin McCarthy stalled floor action with a record-breaking marathon speech that stretched into the early hours of Friday …"/>
+
+            <Button
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:id="@+id/newsInfo_readBtn"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="50dp"
+                android:layout_marginBottom="20dp"
+                android:text="Read More" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fitsSystemWindows="true"
+            app:collapsedTitleTextAppearance="@style/CollapsedAppBar"
+            app:contentScrim="?attr/colorPrimary"
+            app:expandedTitleTextAppearance="@style/ExpandedAppBar"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+            <ImageView
+                android:id="@+id/newsInfo_image"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:contentDescription="River Image"
+                android:scaleType="fitXY"
+                app:layout_collapseMode="parallax"
+                tools:src="@tools:sample/backgrounds/scenic" />
+
+            <com.google.android.material.appbar.MaterialToolbar
+                android:id="@+id/newsInfo_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:navigationIcon="?attr/homeAsUpIndicator"
+                app:navigationIconTint="@color/white"
+                app:popupTheme="@style/TextAppearance.AppCompat.Menu"
+                app:titleTextColor="@color/white" />
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

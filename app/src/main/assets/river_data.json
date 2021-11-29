@@ -1,0 +1,695 @@
+[
+   {
+      "name":"Ganga",
+      "origin":"Gangotri Glacier (Bhagirathi), Uttarakhand",
+      "Length_km":2525,
+      "end":"Bay of Bengal",
+      "image":"https://cdn.pixabay.com/photo/2017/06/04/18/00/varanasi-2371751_960_720.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=woeVon-kP4oFHkHGcABgKI5VPh97enwV4DC3IgdRYXkRZJwjcrQ-m8tt4RvRsgqLMHLvR7qFyAJzEMz9DY-2z40XYAYV8KSsY4qaNWYfg8Ss5xVu0Yuc--XG9MspOTC_wjmcPVNKI2NzNLnjU_4uk_9Gzr_YFfmI6O45Wg_mlTAIIb1JXGCqamHyKNOb2ZZ5pFxK9I7lkfp8bxVEXgBV1SJ6BCnPyM7x8bziwAulnoluiZJp890",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ganga"
+   },
+   {
+      "name":"Yamuna",
+      "origin":"Yamunotri Glacier, Uttarakhand",
+      "Length_km":1376,
+      "end":"Merges with Ganga at Allahabad (Triveni Sangam - Kumbh Mela spot)",
+      "image":"https://storage.googleapis.com/yk-cdn/photos/pdp/manjik-pictures/yamuna-river.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=3wnlchkhhFaW5kZlc4gZfCVuEVF217196beXKdPnJlNKdbEWrET7cUSC9WZmynYVB1o3JNKVZ9zE_yBOJSanG40ciWkv_SJQoKZIlPhThl8_jjRhbvXWcGXgUt7U9I2SQ3PzUphClMifidNj-uIVfJlHWjUttEVK8uTOe9UwEdXsJW0z8y7NEe_53ihuBWnbWVaghRPKSsGdVn525vM6-BkPBArUpgXTeRXyiFkbUqJw5ha-Ihv4",
+      "wikipedia":"https://en.wikipedia.org/wiki/Yamuna"
+   },
+   {
+      "name":"Brahmaputra",
+      "origin":"Himalayan Glacier in Tibet, but enters India in Arunachal Pradesh",
+      "Length_km":1800,
+      "end":"Merges with Ganga and ends in Bay of Bengal",
+      "image":"https://www.worldatlas.com/r/w960-q80/upload/6a/a4/56/shutterstock-651287953.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=Y-jIkCUIQxDi61R6R-3oMXmZYWkMhvk7r_89sUKcW7DPuk0JOF09THxBDh5YK_ec6weWwSh9UoYHt-thPZn5UCdTI7PVraY4WxKboubngafg6bSW3FSa1YoBf7PXxKQUp65uUkbHe6xlwVUHtUNXYPd0iUTCoRzF00lnZ51c3GjHTpDQgK8Hooj4kpO3Za_sXfqwJn1PsMP7tDUZWyYHwDoRxcvMQm4aBgsqchqOnSbuDrIRqWEZ",
+      "wikipedia":"https://en.wikipedia.org/wiki/Brahmaputra"
+   },
+   {
+      "name":"Chambal",
+      "origin":"Tributary of Yamuna river, starting at Madhya Pradesh",
+      "Length_km":960,
+      "end":"Joins Yamuna river in UP",
+      "image":"https://images.financialexpress.com/2019/08/197-garadia-660.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=Ia-7t1njRDFWBYKBXznqz83GYS7CG_2FDnZCq2KvTA2ALNc_yBA5Aj6-aAY-cEdvWuLLxHES2lnH0lMcL-PfsxUnU0bPuDdPLno6UPpvcKTaAfvg5yXQF6kfNeA5dRSRt0buLQqN1nP1lIua2XwpI3tq7AkDGQeSYSdVm22YW565F3xPMy1iN-GZ74Z60vYB2-9xR2zvP1UUZuV6fjyluZIHdAEQVDG5QE7zCJq9YIJlognBjwnP",
+      "wikipedia":"https://en.wikipedia.org/wiki/Chambal_River"
+   },
+   {
+      "name":"Son",
+      "origin":"Tributary of Ganga, starting at Amarkantak, Madhya Pradesh",
+      "Length_km":784,
+      "end":"Joins Ganga just above Patna - also considered part of Vindhya river system",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Phongnhakebang1.jpg/800px-Phongnhakebang1.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=eanlXVDrY1PgWdKJxfYXF1qE5nvVvxoFcbbXrTnH2kSGF1FiQ9yRk_VZ1_HCKs4ga4ngxCBQgHwtikwutQLTP6QDpu2NtWguabByosWQRdeZejXzdQOtZ-a2Z7wRzi-vy1sB3dQJlEbBUerJUCas6-ljtfK3NHQtJ-XiuuBAQ_09QsMilucL88xoUf5wTJM7-KGoJOzzE1UCsYxjV7dDcRngnmvkY9PUZyU4k4DXvurZWyZRUZJx",
+      "wikipedia":"https://en.wikipedia.org/wiki/Son_River"
+   },
+   {
+      "name":"Gandak",
+      "origin":"Nepal; Ganges tributary at Indo-Nepal border (Triveni Sangam)",
+      "Length_km":630,
+      "end":"Joins Ganga near Patna",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Narayani_bridge_in_Gaindakot.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=yWLpXT5BPUaYZmgGacajQQ8qfhv1Ab8_1BWktADom_AqSHSLMEOu9KiyZsl3380lzTDVxd9yFFUGjAbqeBG9j1_VDSTrvQJ5_-QVS6PlAIswR9aLbIvfWStWkKUsqLMTQajTH98kJ11CH1_KdHLxd_TfuzVcyEzW7CdP7LCLn1Jo-XRaiSE0H5vAPsyeIyT7d314fr109S4pD04QZWqyPQBzSyedBAnt81_RkkbacZ-S24KG41lN",
+      "wikipedia":"https://en.wikipedia.org/wiki/Gandaki_River"
+   },
+   {
+      "name":"Kosi",
+      "origin":"Starts from Bihar near Indo-Nepal border",
+      "Length_km":720,
+      "end":"Joins Ganga near Katihar district of Bihar",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/6/66/Bhote_Kosi_in_Nepal.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=sal_ezQKoYeHQYOK97S5JSwWEW2TbaRVJARVVQXjdJMAOj4DiNpHKAKgzWQ8xfcS9aIXPri3mUaW6ajJ3OHCBfvNG-ju86PLmRB4adR85yAUjYBBEy9d329LxI6hd_6qX14R5VTbFfD8jT0DO4eE0vjSFuoDrbbwLZbG7OcJJz0e8_by5oWNxC2oAs03luEzyEEXNgodg_cWCMDPtjcYg18_IGJ_h03669Ua64d6p99C82SH-rkm",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kosi_River"
+   },
+   {
+      "name":"Betwa",
+      "origin":"Tributary of Yamuna, rises at Vindhya region, MP",
+      "Length_km":590,
+      "end":"Joins Yamuna at Hamirpur in UP",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/7/78/1_Betwa_River_Madhya_Pradesh_India.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=W_WtEJRMqEWri3BjlS8oH67pFuKqHQmlZjaOAxbmkzJ4lvjJ4gN_-jC5uNm1fUxBc9dZEYNNvbUspFAwA1WRAbI0jQNF6dT9xLgaDK1ypbRPTBDYmk-i8TwSvDuf7NUwxKPJCFlB7-J_PEvB43vDDVfyYjF0L0qCUDQx3kAsudEGTmAqCwjzwzCC7OAkAApZ51PpkIaN6iM7mVdbWlH1cYYMfQBGhIzlgjQREihLdnAdG5D3tHFo",
+      "wikipedia":"https://en.wikipedia.org/wiki/Betwa_River"
+   },
+   {
+      "name":"Gomti",
+      "origin":"Tributary of Ganga, starting at Gomat Taal, UP",
+      "Length_km":900,
+      "end":"Joins Ganga in Varanasi district",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Gomati_river_04.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=Vzcv6NjJi3U8cTKjTGC0W4KHnNdxS7XqSpf_kMv_ItM6wTzt0ZNXt4ImdLvJqT4pRR1RKHQ3SNi4FSZBxa4EdCtSTln7vEOcoX9aheOIEXHZpeKyD878SggGgXHO6EnhKmgJbBxqtJuEnA_EkQl7tWp0YzWlRErArN71kFtOzC2ErNzXNPSQUC9MTNyRUS5Kg22A-SD0lzCoaEDmcG91YlSb-kMwXoTuzhqWLcmEgoxfH5cQSKFu",
+      "wikipedia":"https://en.wikipedia.org/wiki/Gomati_River"
+   },
+   {
+      "name":"Ghaghara",
+      "origin":"Himalayan Glacier in Tibet, tributary of Ganga",
+      "Length_km":1080,
+      "end":"Joins Ganga in Bihar",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mansarovar.jpg/1024px-Mansarovar.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=I040iNJ62V_96Fh9HfplgcWJE8QLA2iZheoZFmCeEMxJzGq57b5MKAGf079MyDJKeOBQcX_yDIHJ1IPnLn6eEntUHOe2spxdgDeUnhxE6FPNluXiKpCNqxVvBbN4ggER6yjta4SYyTdmgO8_KfJkrGu1MKhqqHS5TJ5TNyLytftaMevg6Tprk8-M9EavQPDorHKNHjxjLvg7ULGI4D16oC2bEoZ17hyIlwVAcvvpbDF9QvMGvakG",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ghaghara_River"
+   },
+   {
+      "name":"Hugli (Hooghly)",
+      "origin":"Tributary of Ganga near West Bengal",
+      "Length_km":260,
+      "end":"Merges with Ganga at Bay of Bengal",
+      "image":"https://www.oyorooms.com/travel-guide/wp-content/uploads/2020/01/Howrah-Bridge-1.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=10W4ekCMxVFaIfVPBVeBmkJIvqKqwhg0YHR-VfbDnb1kmuykSMtKuN-Uq15HNbGTN4Upg3W4j9C1ukooO_tFNIvml4eTE5hVjAjI0spdFH11vpxB4tTkdTssK5W_VWP1qVXbbm8nn5vXb94iQ51ont1mGwv8ouO_J-J1YM_KHQ5HA0hBeBhNJivhHucV4qCEEKY6-zlGqQFhfikzmJj9tg8Kh3g2nd3Wdc_htdYyKqXG9AYue5gs",
+      "wikipedia":"https://en.wikipedia.org/wiki/Hugli_River"
+   },
+   {
+      "name":"Damodar",
+      "origin":"Tributary of Hugli near Chandwara, Jharkhand",
+      "Length_km":592,
+      "end":"Merges with Hugli in West Bengal",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/1/17/Damodar_River_1.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=vNn5MEjGNCZk41fimmlxJyZTSPEbLgquvqfnZ5hR_3NodP2QSOHumAn2rlZmLGZof6TKIYujvH00IniFE7JqT4w2NTD8OElOhD2cTq2C88xbhu9GnDENKQVKuCMd176-UQ2LI77BobPDvPpCo9M69wquefh4YPh09wQSdE-ES8ubL2UW87lUgfa7ct5MzkS2lhQ7R4zsJ7B_S3Z9bYBx3DsBUj38xKAEuskhuI0I0uVthMEeGYR6",
+      "wikipedia":"https://en.wikipedia.org/wiki/Damodar_River"
+   },
+   {
+      "name":"Mahananda",
+      "origin":"Paglajhora falls, Darjeeling, West Bengal",
+      "Length_km":360,
+      "end":"Merge in Ganga",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mahananda_from_Tetulia.jpg/800px-Mahananda_from_Tetulia.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=IPQMi-ykQ9yHcTHU6R5OUh-rMJSNKWMhZAwbiwlM3K-PfDIeCYseseop1Sv7TcATp3V9g-LVhbuy-b5UEvsm38UtFo1OewW0PhTCpxDGvoUm3jUtXFbohP_zaAcO5p2_wYB8UWVmiyg5382wlERFvFk1ZRtMhpTl9u7l_6DUehEA01MHfGdgLCi4bRjY0qwzrqMuVUNe1IIg71645nb6Q5v-vsFEigB7tZdiDWNhlG0On-X1_Cqc",
+      "wikipedia":"https://en.wikipedia.org/wiki/Mahananda_River"
+   },
+   {
+      "name":"Alaknanda",
+      "origin":"Satopanth & Bhagirathi-Kharak glacier",
+      "Length_km":190,
+      "end":"Merge in Ganga, Devprayag, Uttarakhand",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Devprayag_-_Confluence_of_Bhagirathi_and_Alaknanda.JPG/1024px-Devprayag_-_Confluence_of_Bhagirathi_and_Alaknanda.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=8jGWqgmUpBn6kexSgNNqA-K2jBoNZdB2V_Eej3y8MosQ7_-lvVo5lDz7B_ByB97tTS_RvVfY4Lusne9CjMAzqwVdx_BJduWJTagg4g56XBi2hff6u34cWP_EAuReWwLWLusqx7FcpJ2U6YXMFUxKJi7kkMaxRynSRvmG70hivbFdHJWoWb4cu5DpmY3t2hgbCCLSvlWkmBBEO_QJ42QmdFjd4YySLHbCO2jhrGaDW9GbKgZjLDjf",
+      "wikipedia":"https://en.wikipedia.org/wiki/Alaknanda_River"
+   },
+   {
+      "name":"Bhagirathi",
+      "origin":"Gaumukh, Uttarakhand",
+      "Length_km":205,
+      "end":"Merge in Ganga, Devprayag, Uttarakhand",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bhagirathi_River_at_Gangotri.JPG/800px-Bhagirathi_River_at_Gangotri.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=8NS-MyWKPxmaw-7CKb3K0lJhWDR5iej485R3CuDxVAlpCaghzWR4wmi_bEX04NdwzgmsYhDUUnsqPAeWr0g3Z4PsRbBGp6Tusynnd05QPLPiM6K3MzNoGJT265s2tGrH9X3Jn6Z3XhfqyZ9Jaw5DL_J5H0uu_dLwswx22VscUokzN2HbYfQxV7Mo3Kd_YIWCSsjS-lSUMm31zwyuBKxdYPErhg2ujdxER1x4k64aXxyDgMwqsFJ0",
+      "wikipedia":"https://en.wikipedia.org/wiki/Bhagirathi_River"
+   },
+   {
+      "name":"Indus",
+      "origin":"Originates in Tibetan plateau, Enters India in J&K",
+      "Length_km":3180,
+      "end":"Merges into Arabian sea near Sindh",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Confluence_of_Indus_and_Zanskar_rivers.jpg/1024px-Confluence_of_Indus_and_Zanskar_rivers.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=E6iy10GHjmIDxfb7_T5BitAmAUGESaGL_-LEfQ9AsPf8NH7pM32d0sGHQmXiprhk4dFfMS5e5DCaNvYPo4y_pkm_q2DM9XNCuRhHn6eUQNj5ICGP0M4CAWm14LVvNJaDd2xjvdyYm0IUR1va_0Xwadtg58nHWeGFC7Kh1XtgzgBXWyDnqDNsoFrJj38DaMcZtUzEUhdxc6D322_-4Q7gDtRLZGMH8tWcxQuCdxhVTnh3ZclSvkmn",
+      "wikipedia":"https://en.wikipedia.org/wiki/Indus_River"
+   },
+   {
+      "name":"Chenab",
+      "origin":"Upper Himalayas in the Spiti district of Himachal Pradesh",
+      "Length_km":960,
+      "end":"Merges with Indus",
+      "image":"https://www.kashmirhills.com/wp-content/uploads/2016/10/R-header-chenab.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=YZz8ebm7KRW1sSzNOEFB1F6nFLd3jQw5lZdLBcvSDUE8XlYoe92fB8Hk6ByBHStalpycDASSXt1KnsjoaPOcnzQYGATZ1a4etTqE1rYHLOw_L5AzEbq6hRi_FwjELZZRzvdku9n0GxYj4_5uhibxyY3Bi0C14idX2eJ4oXWTRQO_hIoZ_mIh1QGtNFAIOtZgZdLGkf9EcvDVJuQeNgUWke8vPmugpgAUIV_CFDgQJoBSMFofezI",
+      "wikipedia":"https://en.wikipedia.org/wiki/Chenab_River"
+   },
+   {
+      "name":"Jhelum",
+      "origin":"Tributary of Chenab river, Punjab",
+      "Length_km":725,
+      "end":"Merges with Chenab at Jhang (Pakistan)",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jhelum_River_Bridge.JPG/800px-Jhelum_River_Bridge.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=X97hLwOOZNer9kqphsSNwPU6kOX7pqTRVeulvgTdacZm_eY4HguTVmvq6AGF9M8eh373JZoo6qGPd8RioKycVt8v8CDqTC7Z8sGexgNp9i8RmcgI3vABvlElbemojoTJ2fqb40gZPJLVHaok50qe_eVmWUhlN1Go_5b5k8fe_j4BYNr5uZZzLdbYfwUDCNQ2Ud55TAQweZJFkBZR44kJ3Fvqo72Myt_ZVMdwUhKE9rnWj-3Of8Cq",
+      "wikipedia":"https://en.wikipedia.org/wiki/Jhelum_River"
+   },
+   {
+      "name":"Ravi",
+      "origin":"Starts from Bara Bhangal, Kangra district, Himachal Pradesh",
+      "Length_km":720,
+      "end":"Joins Chenab in Pakistan",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RaviRiver-Chamba.JPG/1024px-RaviRiver-Chamba.JPG",
+      "mapimage":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Ravi_%28rivi%C3%A8re%29.png",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ravi_river"
+   },
+   {
+      "name":"Sutlej",
+      "origin":"Tributary of Indus river, originates at Rakshastal, Tibet",
+      "Length_km":1500,
+      "end":"Meets Beas river in Pakistan and ends at Arabian sea",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sutlej_Langq%C3%AAn_River.png/1024px-Sutlej_Langq%C3%AAn_River.png",
+      "mapimage":"https://www.google.com/maps/vt/data=xxzWFde6rlJYwtedb_6W86gI4LtRzA1VE_aGN7-IQv3KFo2bE2CxJouEsS8b_ST7yrU0QwhwSTCzmsaJe-6ydjeu8r51clUIFQXd_XBcNHV-23xpzw8U4F6D4eWRXsqAMw93F8Nk0gjSvKSi4rbw8J2wwVAOeMGx0j9xMYNx9oHocd0Mds6aJ7BVZ8G1sn7lvE3gY8o_yGB9MNLOjzNDHuN5nXuAZAiw44Alih5Dvhsui6WOKS2A",
+      "wikipedia":"https://en.wikipedia.org/wiki/Sutlej_River"
+   },
+   {
+      "name":"Beas",
+      "origin":"Rises at Himalayas in central Himachal Pradesh",
+      "Length_km":470,
+      "end":"Joins Sutlej river in Punjab, India",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Beas_River_at_Kullu%2C_Himachal_Pradesh.jpg/800px-Beas_River_at_Kullu%2C_Himachal_Pradesh.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=fqvmcdSUEeQQ-NEu6sXppF7s0W7NC4OFE5UgQzKdFXr5btjOmrW4sQGOn30KZ5lWjPj_WH4E6IXOJoKZfoHAHUmoYlZ_Hb3cwt8XDESbJ5JmaZGqEGdpfGSCg4rlSjnFHedkcYqD67uTjfFfRE0rtbXOITeCZOBxoZQ1qNGD2tEhdjG4hX7EFQsVcgg4Y0VRErMuhD2eDtVSF3JPjPxne9t93-lneJH44u6h11Z411e5oBT7Dj9G",
+      "wikipedia":"https://en.wikipedia.org/wiki/Beas_River"
+   },
+   {
+      "name":"Parbati",
+      "origin":"Mantalai Glacier near Pin Prabati Pass",
+      "Length_km":"-",
+      "end":"Mixes with Beas River at Bhuntar, near Kullu of Himachal Pradesh",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/The_Moonlit_Parvati_River_flowing_beside_the_Kasol_Town%2C_Himachal_Pradesh.jpg/1024px-The_Moonlit_Parvati_River_flowing_beside_the_Kasol_Town%2C_Himachal_Pradesh.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=ewgnypZEGPlYOjyT7USKIM13a-nVZSUzknlQ0EMk3a415zINjKgCI5m0kAm9GBw3zdhPJmKU08oI66st88-DFYtx4R91jOLvQH-Zc0Ou_GALKEzTbc6IJbspbumFcIPZ56EOMW9SafN-8Vr56ho2Q0D8vX2J-LfJKL5Ud_c89u8hcwOjGcVysdUbrhtacECc20_ZQFu0U2kTmW1nwtckHbSK8H2-WNWbUqnDfaMbhRdjR3ZenVYZ",
+      "wikipedia":"https://en.wikipedia.org/wiki/Parbati_River_(Himachal_Pradesh)"
+   },
+   {
+      "name":"Suru",
+      "origin":"Panzella Glacier, Pensi La Pass, Kargil",
+      "Length_km":185,
+      "end":"Indus, Nurla, Skardu, Pakistan",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kargil-suru.jpg/800px-Kargil-suru.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=dYTjbR_bnbhcQxJZgzCnsvcYVMZ6bpEeVnwm06VVYvfsMcwTMyiywOPn-UcsMPhHE2YcoUACkNDmGBGBVLysFyGnojewhqzPyX0tMulaW20WlVqA5x9UN-9RaH7Q8H-CRs6CMUW9IfmXya5d-ePrnFoTKPWYK4CwHVpcxkCBEjbNFQl6jQjTq9Hin3bjxLI2r9m3RQ9H0tXEw1nNQDS1eQ9KhS3RnpOudvuheYumKKs60jn5AK27",
+      "wikipedia":"https://en.wikipedia.org/wiki/Suru_River_(Indus)"
+   },
+   {
+      "name":"Dras",
+      "origin":"Machoi Glacier, Zoji La, ear Sonamarg, Jammu & Kashmir",
+      "Length_km":86,
+      "end":"Suru River at Kharul, Kargil",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Singomeetsdras.JPG/800px-Singomeetsdras.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=l53t52BczVFpO2tNJeaspdksrzEwfu7ALe7a_M5-Y9xsJqk5-_XlNqQYoq0kZUGjSBP4vOJ0Lk909tCaACOaFz5t_Og7J7-ooeFv7RdXe18EKyK3sWsWYdhM3YMZLvgkFA9N5cy_vJsviI_zVZbIPB3Frh6YUrLFgf67EOdwmOMNDlEB2uq7pjyQdJEI2BzDwnObWD-kdIr6RbpdJ-9xF2-lxr2BCYRLermqfY4BAAvZ5MwlvyBv",
+      "wikipedia":"https://en.wikipedia.org/wiki/Dras_River"
+   },
+   {
+      "name":"Zanskar",
+      "origin":"Doda River (First Branch), Kargyag and Tsarap River (Second Branch)",
+      "Length_km":"-",
+      "end":"Indus River near Nimmu in Ladakh",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zanskar_River_-_2018.jpg/800px-Zanskar_River_-_2018.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=B80fbq737lMpKftoC2UUCu0Md7StGBngnwM3xFElWAcrgbYp6f75UQpg4qc00j2H7xnrrRK1eGIpin3DhFSclhqhgGCNqS62aPLQAaDBAVfHCMReuTAu8yPry4nDd_SvhVfmyav-HjEQtXIvV1jXaEkH080baoyNgqIgfJ9EeGHzXQcDGnvFEokjkHnkEIbjL8dh7T2oNtwt9_zdl0HLXqxMY8sNfjYbYjeXPsJrXer-h6YLqcK5",
+      "wikipedia":"https://en.wikipedia.org/wiki/Zanskar_River"
+   },
+   {
+      "name":"Tsarap",
+      "origin":"Pankpo La, Sarchu",
+      "Length_km":182,
+      "end":"Zanskar River, Padum, Kargil",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alchi_Project.jpg/800px-Alchi_Project.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=6TFmka_3F663nzAZJgkYNUOZbB6sxytc5Zbo_H2N974G66IBjCrCCAabgD2wnCAlMT16Trl7kRuoxigGVZLRZBkGZjNr3F5jflJ50x45SRPIx6lNEtZ5m71wgfj_HRX8vr1SNeJspoOLaQdw5YDbVXQzQdK-hNro9Ppc3KeQaPzJdnnh67IMQ4SxzA04aW8t3ZU1-98BUK4z97-7z50_Mi0DLhpjINZaP7N7bnAtqOq1SnrcA8rh",
+      "wikipedia":"https://en.wikipedia.org/wiki/Tsarap_River"
+   },
+   {
+      "name":"Doda",
+      "origin":"Drang-Drung Glacier, Pensi La",
+      "Length_km":79,
+      "end":"Zanskar River, Padum, Kargil",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/0/05/Zanskar_la_Doda.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=5C6hRo662W7HVJA-INJdceo4fnCL3SBTyrIt-4-1CoJtMhso7bPAHLTzYl2oZCP0YMhpUgC6gSebWXZLXUw623YD6evCsXjB8Dkp-qJCShG2uhUbxQED-Bg2fUMFeAWcIb1kEXhutcMEeoBoI0-xkdz4CO3rBJxtdWjm25cw1cu7oRNVnRxuDaTaZ9oP2nGzcd5yzftWKc0t2tA7z2O5Kri72xBC8Pi4fS9GzPc6JRQL9avg2F4m",
+      "wikipedia":"https://en.wikipedia.org/wiki/Doda_River"
+   },
+   {
+      "name":"Kaveri",
+      "origin":"Talakaveri in Western Ghats in Karnataka",
+      "Length_km":765,
+      "end":"Ends in Bay of Bengal",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kaveri_at_Shrirangapatnam.JPG/800px-Kaveri_at_Shrirangapatnam.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=4I6kQr3qXXX-OhKEZuoWkoybdSbpj9xIml28xvqZOloE-HCwyRW_cRn53VYA3T2j4GDuH2uxPWyCRsTCh6llrK9y4ez50wtWr6dIFZSvv0cblMiQSBvZ7j0zG0fUGMrd5V1CuGRFY8m1d-11MUXAr5teqj_cFmmwLOavbrV515-6t5QWs66_X46xlBji5KjXNdpk-2PVR90-AYP6iVscdBt31bDlYd1JdfWqKU8EPJOIbHMr1LlU",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kaveri_River"
+   },
+   {
+      "name":"Krishna",
+      "origin":"Originates in the Western Ghats near Mahabaleshwar in Maharashtra",
+      "Length_km":1400,
+      "end":"Ends in Bay of Bengal near Andhra Pradesh",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Sout%C4%9Bska_%C5%99eky_Kr%C5%A1ny_u_%C5%A0r%C3%AD%C5%A1ajlamu.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=XK8Jdcqba8Es3KzVFfqrK7Pt_8uJR82wabZjJtfJKIehwhQXpz-q-JHbCD15f-ebVEpnnm5Ny91pGFaToiyk0192cS8iPoScOWgWWJo3FdPJWv6efe58U5SqdnHrRUfilMTe5pc0DsfsZVRhAhZP0wcWt8zbKbH4zCNVNaLv84VITH63phYFweGhsyvXf3aIi8qngajb3IJOuZP_GeKdTa9WUtRgfI78_BmkU1mIttjkJlVHQesW",
+      "wikipedia":"https://en.wikipedia.org/wiki/Krishna_River"
+   },
+   {
+      "name":"Godavari",
+      "origin":"Starts in Maharashtra and passes through 7 Indian states",
+      "Length_km":1465,
+      "end":"Empties in Bay of Bengal",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/6/6b/Dummugudem_Barrage_on_Godavari_Khammam_District.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=DdJk9bntziEj-12GWb0I9flg_fCOM67K-i6E7dt8A7SgO7B7e43AWnuIEOhp1gETLN-Ywv4QzUw7TPAtoVYlahfc-vemUsg0Z3sZwALx09JMhwfbStukqilCl6bVeVps6qmE3FyJMDuA7wU7IqYIeDJSPqx6OmAOfwf99_4C32aJtjPzAPCxGCTe3AjhioSsc-kIM3zAZ6kB8XrTCT46jxVJOhZ-zdNsSzqOnPYukrXhbvH3ThLg",
+      "wikipedia":"https://en.wikipedia.org/wiki/Godavari_River"
+   },
+   {
+      "name":"Tungabhadra",
+      "origin":"Tributary of Krishna river staring at Karnataka",
+      "Length_km":531,
+      "end":"Joins Krishna river along the border of Telangana and Andhra Pradesh",
+      "image":"https://hampi.in/wp-content/uploads/2010/09/river.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=ZRc6JAW5eI1V9MhLKytRJjoe5jBR5UaicMKGi-Qmbhy96NRo-d_MYmvVrT5iW6HpNhPB74dE2giIrsZ5M53qkLEoULewdB9Ms36hHwBwI7uWKAA6kE5G0Eq69ILnwqbAMtXjIdkGbMWX0Oq6FKhWPsMpSqDXZoGIQxJVBrzI1-gUBTsZbhpYBW3eFMfY5OYw_ms0l1VblOMPg25Dub4LeLwK6kvJPFGKgGkGwdGsoWm5S0ainbnX",
+      "wikipedia":"https://en.wikipedia.org/wiki/Tungabhadra_River"
+   },
+   {
+      "name":"Tapti",
+      "origin":"Rises in Eastern Satpura Ranges, Madhya Pradesh",
+      "Length_km":724,
+      "end":"Empties into Gulf of Khambhat, Gujarat",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tapti_river_%285%29.jpg/800px-Tapti_river_%285%29.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=d9Wd5TJodu0w5GA9pQp5DyLij2DwLWbYh3s_h2Erb4uuq1czvT0gJPAM_x9wvsda8WNcGGoB02dy7S0iAx1Uaty56T1qy2Mj9y_9DUVGzj4Ag5DYz-5M8KIfF-g6u4Zp_IoZCETdeN24mkkWb4lX0lS7aG2h9AHLiq92-ng1k94pvLMo9ZuFyCEQzQgvBbGyR-xKlDdofTU9GPcq9mpCwa8TB696ybWs3Lsatf6nLESxmJ081Mw",
+      "wikipedia":"https://en.wikipedia.org/wiki/Tapti_River"
+   },
+   {
+      "name":"Mahi",
+      "origin":"Rises in Madhya Pradesh",
+      "Length_km":580,
+      "end":"Flows into Arabian sea from Gujarat",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/MAHI_RAILWAY_BRIDGE_SEVALIYA-5.jpg/800px-MAHI_RAILWAY_BRIDGE_SEVALIYA-5.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=_7FBUT0FImzS-DVZsUBfcREAEoTb_TrtK-7mbZxvCO_TjtzjjOKq8akMNCVOHFdmIZtov2oI2s-JR7euwpc3v8dp2tm9qkGySG1-FjGB44cGxDCE6weoAXsDPjA0A0ONlt1_6LNbkNmzMDy9WPeGxdNjEAc7MNbiNbdGalRAOaQCkTI7N2oAUs7CPiV1rm5GR1v4A-Epk9yu7zvNyBr8xVanku56HzwKd5-5w64cbi4jHGwmdPpW",
+      "wikipedia":"https://en.wikipedia.org/wiki/Mahi_River"
+   },
+   {
+      "name":"Narmada",
+      "origin":"Starts from Amarkantak, Madhya Pradesh",
+      "Length_km":1315,
+      "end":"Drains into Arabian sea via Gulf of Cambay",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Narmada_River_Jabalpur_India.jpg/800px-Narmada_River_Jabalpur_India.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=N10ylHyvLXEaf4bhJhDx10vMABsu9vyV_rWMBZocx992wODr10fVQJ4XzPcL4taUMel_AoUipXwcdzionY4Wv_i-WHYrlCp-TqAyUH88TYqlsHGTDAbs17IkRkl4Abh2ZFr_VMsd7OeSsdsNzW0-BZuiDdv_F5jsH7Fc9Zs95bxSRqGttwlQ-zxz2Q-VZi5gNvyh_kuN07thZ4GpStZRg7dKKcATWAkZ6yfIZWunB7cD7bVkJsrw",
+      "wikipedia":"https://en.wikipedia.org/wiki/Narmada_River"
+   },
+   {
+      "name":"Indravati",
+      "origin":"Dandakaranya range, Kalahandi district, Odisha",
+      "Length_km":535,
+      "end":"Godavari near border of Maharashtra, Chhattisgarh and Telangana",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chitrakot_waterfalls0054.jpg/800px-Chitrakot_waterfalls0054.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=KwicjydAt6N9QqN4K6PdIxrjoTtMTjZzqNq3i-LMjXLp83bpAZCvfj7TT6VQuvUmVrIA7rfOvmSBWt426IAE3wzthl3-E4P3DBVz-gZYvDiDFFO3tJnMJioYn0Mh_zW99OmQ8sattb8ALwtQPAKv-fBt3cjSxf--1JRICirwTjpPwggFJO_x4k64mFivNLalEjomeNR9WrMYIyuFe6rZp9Ulp0n6ZZ7QhT3IwnJWhhSSLHymaT5d",
+      "wikipedia":"https://en.wikipedia.org/wiki/Indravati_River"
+   },
+   {
+      "name":"Pranhita",
+      "origin":"Confluence of Wardha and Wainganga, near Sirpur Kaghaznagar",
+      "Length_km":113,
+      "end":"Godavari, near Kaleshwaram, Telangana",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Old_Bridge_on_Wainganga_River_in_Bhandara_City-_2014-06-18_13-50.jpeg",
+      "mapimage":"https://www.google.com/maps/vt/data=AMkLfKJbPTNPsl9Mv-WsNxf_4eAiyuyisR_8ykozkRMyHR_JEbyyuYILOtzl6iRD-zfK4tGGTOrsfLcBigCxjVUwzXDeNvMvJvm_5pTZHutP78CLtDtlrknCqNeA2TsTOxLw3UjuW4ZfHA__W3rTzADQ57_smWkqAl9FPPo3G2KlWmpTvJdGtW-trJtQueYNwcX5BLUQG42gcJEXS-aexh7ohoJlh9Vg7lsSVD0sk7SBadoC5uE",
+      "wikipedia":"https://en.wikipedia.org/wiki/Pranhita_River"
+   },
+   {
+      "name":"Wardha",
+      "origin":"Satpura range, Multai, Betul district of Madhya Pradesh",
+      "Length_km":528,
+      "end":"Pranhita River",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wardha_river_at_Pulgaon.jpg/800px-Wardha_river_at_Pulgaon.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=PuFtz8f-7ULQ7hxUlh78vJrB-01YT7KVSqFakqjwpC6jEIAsibtoOHTt_JRq59CnWaAsZA5k7baM5rrhfxenHB437hRF5GbawnA5iv6q1A4ZnwFW6EpvGj4zC9oJGfH7Ege9w6nEChtq8pTGWoKxJMfP9XiLoa3YszQwKotNaXc6_3aTeSFtwSKyan5YJg9nJ_t7_m71t9sel2amtOcm4FnWBwPqcfLsU3dXnryAwt6qrxLtiXGS",
+      "wikipedia":"https://en.wikipedia.org/wiki/Wardha_River"
+   },
+   {
+      "name":"Kolab (Sabari)",
+      "origin":"Sinkaran hills, Koraput, Odisha",
+      "Length_km":200,
+      "end":"Godavari",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/4/46/Sabari_river_near_Kunavaram_01.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=8tAWGat0ymn5YnwD0Iz3N2-eNqHLVu92vt0X34Bw0kCAIGjdpfZrqulPFwCvGYrsL5W92cJc6UefntspPunUSHJWFSZyFw98Esi9_xp3yefMrKP8BznDLn8fKqwWuI7SSbNRYxq0-wtAyoX-Mot8ViZKiWVWqgRcohhWLSEpMjcktJ7-nyowYxptmPOiKEK0ds42BVDa7vaTHDmqMvHRrZIiVhdRwROvkaOKEbOZTWQ__wZWUp1N",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kolab_River"
+   },
+   {
+      "name":"Manjira",
+      "origin":"Balaghat hills",
+      "Length_km":724,
+      "end":"Godavari, near Kandakurthi, Karnataka",
+      "image":"https://media-cdn.tripadvisor.com/media/photo-s/0d/5d/31/2b/manjira-river.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=NJdsJd_vnUyB6TjCz2qQ3W4ETNbv7p3ONDJ96J4I5SvZTOwRBDqtq4ktTnZ0BUX9bv1jN5ZgtE9zd9OMgqdgkqWy3GCKIZBjyte4D_jeWE5c_mrRR3UAA-QBk_xlPjppIoE6luhBNbBw1JsVGN28qSTQ43eUP8YKt4Pa8fsTUSOCc-ipBfVyJAqf4NqhfFKXVTmQ8s5x_X3hl1_uzJskvhIQZsYcS3vfJJCggFPJ8qldJehjyJO8",
+      "wikipedia":"https://en.wikipedia.org/wiki/Manjira_River"
+   },
+   {
+      "name":"Wainganga",
+      "origin":"Satpura range, Mundara, Seoni district, Madhya Pradesh",
+      "Length_km":579,
+      "end":"Pranhita River",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Old_Bridge_on_Wainganga_River_in_Bhandara_City-_2014-06-18_13-50.jpeg",
+      "mapimage":"https://www.google.com/maps/vt/data=S0afeY1EIKk7D7DPUPHeReuhMafTSxWMzoABbNMz8vH6bqeXScm5WEHieeIbZYAZptKMPS9N_W37TZ5syzWVGdWKgRqWNYWyT0yG1esf80-rWqFriBnb6ev0lZhoF0q5Z0WdB5mepfBkBrIwy_6aLI5p9eH8pcViK2amHCH_JS-rs4H62DPPqbd91pO3hRHagaiaUzwV084G-2fD_yg_rXjujEf5i-aMzX1DpZ9zAdpuPEk10a_8",
+      "wikipedia":"https://en.wikipedia.org/wiki/Wainganga_River"
+   },
+   {
+      "name":"Painganga",
+      "origin":"Ajanta range, Aurangabad, Maharashtra",
+      "Length_km":676,
+      "end":"Wardha river, Chandrapur district, Maharashtra",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Painganga.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=19VtodH39_LDi2SB4EILGU78m_DuUQkv1CrvbAnM3EdER6_nLUW20WNJSiWOATfaJeYHF_FWJaDtu_dweLXZrK_oZiSXfH30ee3eramrpbsaoEOEFNScT8R1svngCDbIJAmQQTSnp-Sp_Ik5wUDwF7U3lJs5Vs9rXiRNbyvhstYW4h1YQIua1LuYuUKwLAvrmjgPqFiCaoa-e1gwcmeAzqPHwfORLtRweCTUxmCQVt9b8wVS8CFR",
+      "wikipedia":"https://en.wikipedia.org/wiki/Painganga_River"
+   },
+   {
+      "name":"Vedavathi",
+      "origin":"Confluence of Veda and Avathi",
+      "Length_km":"-",
+      "end":"Tungabhadra river, near Siruguppa",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Vanivilas_sagara_dam_1.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=HBvXiBGVEMyzNeeYdXc3JBaRbefwxg9VYeyeFVKShZq5O64ZixARK9Fk5Y0rUkB0FI5ZkFesdMeExker9XqTWhnIBuYofn-jHQJ6RPmve5GQBl7uM57hUHihExGA8T9cNYGP5ekORUDcPjTxI70xwOnvFk-jzqDBkOOymD6zLHIKBngPcU1L7U6CpMlG-3cOo13InidiqDTjzNfrfiYAKAV_f2m4jWqXZBYcizinbf9JkSwWoZ4",
+      "wikipedia":"https://en.wikipedia.org/wiki/Vedavathi_River"
+   },
+   {
+      "name":"Bhima",
+      "origin":"Bhimashankar",
+      "Length_km":861,
+      "end":"Krishna river, near raichur",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/4/47/Sangameshwar_tulapur.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=zFJgYL6nBxY2CX291KnJlzlItwqrrGXLk533gppx4hD5JedbZfCQfJJGYGA_C0PBl2dOxpAdhloe96O52vXFuGgK9-qo0KDk_JFR27XDrlC7A4TAJ1_zPfYac6iG9Zj3fcUOJSRnEnem3w47eB1Azf_67pc7bTGej_Js4pJ7y8ZmhospthH4eTzSZsAmz0aPqy8h777sYluTPMQE5Nti6g9M_6m5hYxWLcgqMQ6pr95vLSb1IrYC",
+      "wikipedia":"https://en.wikipedia.org/wiki/Bhima_River"
+   },
+   {
+      "name":"Indrayani",
+      "origin":"Lonavala, Maharashtra",
+      "Length_km":"-",
+      "end":"Bhima river",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Indrayani-at-Moshi.jpg/300px-Indrayani-at-Moshi.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=C-rJf00HMeZW5NSXaw7gYZPYEK6o0H5jlbuBZYs1zT5veXvV_LJYe4FpR6NRXE0sc6-TIcOHwHdVNIzit-WGMpJU-RJeHmAyE_yFPEr4CHccwKYtwhoGhnhrlfd4bZAv5yOGrO1aN34hFK5eaY-PX2WzZtQ8vhGbPzdVQ1COXbo-il6d1yIu_lR9ElVfF395-XLu2bBfWqTPqEr3L8YHBBIZrppmOaj8qxJKASii1X2aSekprmbn",
+      "wikipedia":"https://en.wikipedia.org/wiki/Indrayani_River"
+   },
+   {
+      "name":"Pavana",
+      "origin":"Sahyadri range, Lonavala Maharashtra",
+      "Length_km":58,
+      "end":"Mula river",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/7/70/Pavana-River-at-Ravet.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=sKhNQxVKNwqbyiiQIsFD7gfTJiEhs5Bzkx5um1b0ZLUftCAejNKpsXUSBZO2vZN-VlR6BP8L7jhbKzj2JEyBIOn4ArnlYnoOBzu2C6KKTbzKSlcpsHoRgq-ynW1IpREMmxSf-AiFKOYrw0OgQHn66B-vALhwFY9-ftkUCl-xFX_wqESlWJI3l8QZHvEgQ_MVkdKe0gUVQ4L3vF2yiMXVhgmp3vGfWJYc9_9nGUX_pyLZ60ubfH_3",
+      "wikipedia":"https://en.wikipedia.org/wiki/Pavana_River"
+   },
+   {
+      "name":"Ghataprabha",
+      "origin":"Western ghats, Sindhudurg, Maharashtra",
+      "Length_km":283,
+      "end":"Krishna river, Almatti",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/a/a7/Gokak_Falls.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=3MWEdFEY2nGlluvj_2HLM6E4xw69yXR1G8bub-KNIHDNFVKBqnM2CCN5fTxX2GDFqC1pDu4-vr5K9PI4kWQijvYRxeZBOcdnqejbPyYm4igaipto1ffeMXaPLNIpq4XTdOH5_auKcH8Eih8U3iQC6XXe-OCt1Y5IDmhP7ftEtctlzF_p_a4f1XGg-jCwl_yGMFmk0ovzazWGljO1LFVKQXwLMJSQ_oNd_PbKQ4ncIOWEZUN-Lrz9",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ghataprabha_River"
+   },
+   {
+      "name":"Venna",
+      "origin":"Mahabaleshwar, Maharashtra",
+      "Length_km":130,
+      "end":"Krishna river, Satara, Maharashtra",
+      "image":"https://media-cdn.tripadvisor.com/media/photo-s/12/a1/bb/fa/watching-the-venna-river.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=W_oTtj2DK6iwF_XHg5k3KNLoeXJQO3MGKKWOOG3IP0sXOvD8AZM9mKoqfrwn1wOlr2ofZ_f65l3Ydu1gGwGX5lh0MtrmGfUWpgZ0JJKqlzoHlJ1I-NVuD_2mswfLMDMiYYlg8EroMFDqPjBHBV7WLRX-gJGrxCZjbomGS7V3913pWenHYzPKyOxPvJr1NTncesuSPfZDt52jHHa6niGmlHykNftZNpzyvUBRilmKcylh3w0Ru1BI",
+      "wikipedia":"https://en.wikipedia.org/wiki/Venna_River"
+   },
+   {
+      "name":"Koyna",
+      "origin":"Mahabaleshwar, Maharashtra",
+      "Length_km":130,
+      "end":"Krishna river, near Karad, Satara",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/9/95/Koyna_River.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=rNkgIRaJ1qxX7OHyHg7BCEWTKP-KJBfhRCKgI1VHw7QWWclLIYRqg6FPKChq3rLykLgddEZ7uXoekDQQTAg4LQ3PE-Ld54sxFC4ZRHjzkyQ7Ec8iNUCl9jDfzVEv-Isb_5nfezq1RN1uuQ__fDjcSQ9WS6aKSeF5Ejph55ELZ1cLDmwkzaG5uc7g-zeisJ7RMaLgX-EHmylSLGtfQqedVFmqOGho24UVd1Ffpzq8NxQKaGXeW1MN",
+      "wikipedia":"https://en.wikipedia.org/wiki/Koyna_River"
+   },
+   {
+      "name":"Amravati",
+      "origin":"Anamalai hills, Pambar, Chinnar rivers",
+      "Length_km":282,
+      "end":"Kaveri river at Karur, Tamil Nadu",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Amaravathy_River_Kadathur.JPG/362px-Amaravathy_River_Kadathur.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=e7RBr3ZIr-Mz1dGPwU7G0cLPG_Z9qHi50TIB8kXHVFlQNRAhP5LaEihJoAiYKFfGEKWE4macDKCbxI2HuUmyGnQ-XBmPqvjmiuoRR_Y3ggz5RaRtQCZkg74cmkO3zWJVf0dYlkZG5jKN_fDVs59SFAs4QkaJ20VXs_oh6ppXLfi_8fhbYSkJCrEAFsmgDvKfEt5b_k5W4d21SFzeJc1abbdssC70inemmDxdmRPdMjOSHNhdMouS",
+      "wikipedia":"https://en.wikipedia.org/wiki/Amaravati_River"
+   },
+   {
+      "name":"Bhavani",
+      "origin":"Silent valley National Park, Kerala",
+      "Length_km":135,
+      "end":"Kaveri river at Kongu Nadu region of Tamil Nadu",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Westernghats_river_gobi.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=H-x6gfb-j3afXNnanVvPhVnOd7-f-9s7rmPGmWQPXqzX44LKpCtVtZdasF-wuRiYnuMJYo2_6S4AF-ph_4XyFHqPpQVMDW-tSdGn_O4HiGumAXsn8v9snWM_-W2IJWdaVOxU1lGOSXdCQxfAg3f3RKqu3y6VucStYHApXrrjme502u0POHKsP_H2BBwnG2AATFNxSuONxtpU6okfgmmX54RByh0u4E2RTtCXrhHJT1uAKUAhOvM",
+      "wikipedia":"https://en.wikipedia.org/wiki/Bhavani_River"
+   },
+   {
+      "name":"Hemavati",
+      "origin":"Western Ghats, Chikmagalur, Karnataka",
+      "Length_km":245,
+      "end":"Kaveri river near Krishna Raja Sagara, Karnataka",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hemavati_river_at_Banakal.jpg/300px-Hemavati_river_at_Banakal.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=3w69WrEkhoImOgqsGGkDGjKQIBVT3Hr2r7ZkT8zR-bM8HsH8ZzwadXRsR1ebqnQxlUaIZ4kqOagRc_cB2rx3eOkDx1NGSwLx-JxpOzhrNXQ9Ln7uEyprD2y0yDv1_6cGqNntzmnQyokL9IdzPkNS5W-YFNdXTGb8AaQlBzP9F4m4kUUrVlC5ZdBw-0gBZuRvCzF75AoM1QEoynuoPH9VoygsnyGBI1rFfMO3SknrvYV3aX4JtpSt",
+      "wikipedia":"https://en.wikipedia.org/wiki/Hemavati_River"
+   },
+   {
+      "name":"Mahanadi",
+      "origin":"Dhamtari, Dandakaranya, Chhattisgarh",
+      "Length_km":858,
+      "end":"Bay of Bengal, near False Point, Kendrapara, Odisha",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/0/02/The_Mahanadi_River_%2C_Chhattisgarh.png",
+      "mapimage":"https://www.google.com/maps/vt/data=Z2P_Llt-mfWGooxZaaMXYwCP-1ABRaHEZnSrIlCXBorVXErKDPsbDLHswBMgZM7KShsxyMHtPSx5EWtqJT1OUEHQUwryTRgadGv1t0olPnQ3nwvLw-OSpj6Bf7N9f8F6Wgrv8mpmGuktrP6KrZ7AxBSSNXqNQ_HU4BY5p4VDo5wUmWODZhksD7Yn9k-gWa8QVwO3b0NNPYIVL4jt2lB4ZjU_7w83oviPQlCJQF9ll3GaTXfUSv7C",
+      "wikipedia":"https://en.wikipedia.org/wiki/Mahanadi_River"
+   },
+   {
+      "name":"Subarnarekha",
+      "origin":"Chota Nagpur plateau, near Ranchi, Jharkhand",
+      "Length_km":395,
+      "end":"Kirtania Port, near Talsari, Bay of Bengal",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/5/56/Subarnarekha.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=d6VV8zwIxVwxV68mGi4zvpBf95TIZWxyTMyLxqmgT4EaryY4MkM8aX3CAPZsNMWN1CIirkkzhqe_tXwNSTHkBZF17gzELvwDFj_hw3_aY-8bHq_YGcTCc04M7wG36mD9gsP5rYC8zI5S40csiuo_3rlREkPip6tLcGj_mUHw05H62mlXmPePcfAyKGymDkTUosVibSw_bP5HmZu2f5DWDgQSp3pSZaATaBzfSu-sqf8qh133LfZy",
+      "wikipedia":"https://en.wikipedia.org/wiki/Subarnarekha_River"
+   },
+   {
+      "name":"Kangsabati",
+      "origin":"Chota Nagpur plateau, Purulia district, West Bengal",
+      "Length_km":465,
+      "end":"Bay of Bengal near Haldia",
+      "image":"https://thumbs.dreamstime.com/b/bankura-westbengal-meyendar-kangsabati-river-106665896.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=0jPqZad8IJq6UDLTCpwyX9MCGmr_Z74eCLzsAXTfJPtL6Z97Ul0ELhonqQBYWXNNLggYNqC7zEd7dO7lb0s49XRi5gbZnC5W2DIoYC6Wu-jQX0jLWcYzD491-ehTtxaySLhfYiAn7ZfKkN9YtW8Rs4UWlKe9n_6COYHKpqSGnvyNkmD2lxC1tVDlpyEOnPUT7wdV7CLtj-oKZ4YYaYwmR9V450gIDd1V-8OBsmEkzYm1MWdU-4Bc",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kangsabati_River"
+   },
+   {
+      "name":"Penner (Penna)",
+      "origin":"Nandi Hills, Chikkaballapur district, Karnataka",
+      "Length_km":597,
+      "end":"Bay of Bengal, near Nellore, Andhra Pradesh",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/River_Pennar_also_called_Penner_Penna_Penneru_in_Eastern_Ghats_India.jpg/220px-River_Pennar_also_called_Penner_Penna_Penneru_in_Eastern_Ghats_India.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=oRbLQ7kJBBnT6r67TnOezOm-7HeoUEmbFfDVYCak95lgBjsmL6wUajIB4ESWeKmovY71e00cntm8FW-5TcbhJcFajw58rftLF26xnlmBiH55d2fahiGE3M7ZFsVpqNh1ALNWGhRIWzpux6McTtlosPaMt-lBgmYtVRAlbYtwp7fZ9z3vqX8c51Xwxml5kawb7wrdHFvOy5seCTvim9eyGGCjaWdKRWmgIReRH-f-AKft2ih3hk5H",
+      "wikipedia":"https://en.wikipedia.org/wiki/Pennar_River"
+   },
+   {
+      "name":"Palar",
+      "origin":"Nandi hills, Kolar district Karnataka",
+      "Length_km":348,
+      "end":"Bay of Bengal, near Vayalur, Tamil Nadu",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mouth_of_the_Palar.jpg/800px-Mouth_of_the_Palar.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=eVACbsgGC6AOc6x01NdfBb_xMb1mTttVcaEp9IGAhTWwN2BLWy114YPNLZyS8KJh5Vwu5Qy-vXXgKWcyHCGNQaG4oHX3tMECEeWGGDkdtBTLHroOrPuwYg9n_QY4MV10LEpHpjV9NwQRGFRYUt97KSZSKWwjKZYP4DFJaHd4SKEFO9KeNhwN8Q2v9RZmeDJRwA7YT0RYUIA4_8QrbJaHPtS7NFXhGg5ZcZ5vLegQIGIw2-TaU0A",
+      "wikipedia":"https://en.wikipedia.org/wiki/Palar_River"
+   },
+   {
+      "name":"Vaigai",
+      "origin":"Varusanadu Hills, Tamil Nadu",
+      "Length_km":258,
+      "end":"Palk Strait, Tamil Nadu",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/A_sunrise_over_Vaigai_River_in_Madurai_Tamil_Nadu_India.jpg/1024px-A_sunrise_over_Vaigai_River_in_Madurai_Tamil_Nadu_India.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=oUxDsNNufOF238kYA7pHtuVD2zMDT6rsT164KzOw_6h7nGmQkf6qlNCi771af3571SsablAl3gXUUhlDvON3lUHN28N17Qxq_5vX5BqMFodUR5vFEAxdRAS6JirR-pHCfjr7LkavJonk5lbIJuuRwLbYWUZ9RxgYsvihLfLFbbtzYO-zTc_I4gPOl1EB_UwntyaShI_Cymn_TRA2-IBL6_siiR8TuhmEXnJ6Gg8fkICXemV3kYL1",
+      "wikipedia":"https://en.wikipedia.org/wiki/Vaigai_River"
+   },
+   {
+      "name":"Vellar",
+      "origin":"Shevaroy Hills",
+      "Length_km":150,
+      "end":"Bay of Bengal, near Parangipettai, Tamil Nadu",
+      "image":"https://mapio.net/images-p/36068398.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=ukVwlC1tYSqBsa3EyEvuLGyr_m1kk3y6eOut0U-_PSuaPt4qUn57Opbs3Te_CECn4_BXOXf9ibyuzaaQ5ZRn9reVUDQSE0MQZMFEmI7J1GDgTckSm_LSgn7-xSyZFwjFs0UMrq5i8byOV1LogYxUdxXZdyzwa5NxHYz132NTmgdth-Av8liniruJonDsZQro7rXThNzXy3ddOtLcw8WRzGPhy8AAELfEvMOU-BrdzOijw6n2gdlE",
+      "wikipedia":"https://en.wikipedia.org/wiki/Vellar_River_(Northern_Tamil_Nadu)"
+   },
+   {
+      "name":"Ponnaiyar",
+      "origin":"Nandidurg, Chikkaballapur",
+      "Length_km":400,
+      "end":"Bay of Bengal",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/8/8d/KRP_Dam.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=ivI46epj-lasmVw4Rs9lkaowpeVYLJlh9meo2-ui-DHUqosmmIgL0PD4g0uo-k-zu8pel9RM4O4kCfcTfvlGVh0OzDJmR4oihhDEraOfbxLnpFLYLj1gVSu5zs0WtIGA0tXFQbqatdCD6FcwGCU55fLORxfuEzMnknMHmdf_ZaV23e5t71ppt2V_z2f5CwQwwcQJ3fHsg9w_Osyo06ajZSucbyu2mh9qDVwvADMH9MtQpaHvxfBe",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ponnaiyar_River"
+   },
+   {
+      "name":"Noyyal",
+      "origin":"Velliangiri Hills, Western Ghats, Tamil Nadu",
+      "Length_km":180,
+      "end":"Kaveri river",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Noyyal-at-Noyyal-Cross.JPG/800px-Noyyal-at-Noyyal-Cross.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=jze4EG05Xalg5d7k9OKkiScgRonCddGCdJskfOI4ZuYeyqQtqCqpHKtz6K9Q974TTZGQhPS6d1sTwGZjBrAGlzvM3oaLnq9lr3rpiSoUXB7Wy3McpoRxduyQsRrxOE5qcdAfb15gWYymVL-cqxypLiRbQzyF6XsuhHqE28u92T7KwYtWsa2k2ZekjhZ8YP_4EHLnYibWo6k-PytxX3jIBMx3xpnWAwIQU45rTCCIoWlyiE5dgEwX",
+      "wikipedia":"https://en.wikipedia.org/wiki/Noyyal_River"
+   },
+   {
+      "name":"Gomai",
+      "origin":"Satpura Range",
+      "Length_km":"-",
+      "end":"Tapti river, near Prakasha, Nandurbar, Maharashtra",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gomai_River_Shahada.jpg/220px-Gomai_River_Shahada.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=6nDbyQCCaU7-jSI7PP8Lbwkr8ONz26mK_GgEZb8Kx-Xt65P2fTW-x864ZL6AjcwwHQPAq6qCDT3C9jaJd4Q1j7xj0XVQtnWcVOVwOu97uVEN4t9P6n6HtE_TQpfHYT4-RaJ9ZxH3_41ckVRF7b7o54Q-Hzeb7FwQPJ1KobYddOGH3t2fExhGrT0kOL4v7Q5r7Zve76HIm1sBoJVOHRVFvPprOF-G_kG2rtEU_J3d8W6LUO1ZZETmgzrvrV15FA",
+      "wikipedia":"https://en.wikipedia.org/wiki/Gomai_River"
+   },
+   {
+      "name":"Panzara",
+      "origin":"Near Pimpalaner, Dhule, Maharashtra",
+      "Length_km":"-",
+      "end":"Tapti river",
+      "image":"http://www.mumbaiorbit.in/images/MumbaiOrbitImages/River/PanzaraRiver/Panzara-River.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=pu64by9-cMHks1jNUQk1CbKu8Ni_K7mATC4_ozsVHjuLlkePeyIrqY8Ic-Tj6rmTXGmeFZbg5yqe_XS6-41DDqRsX2r0OuZtywVH3SyG2eXOkj_8CC5ucZsryK9tTiio8kZIMRkQKCvyb11d2RjECRt5gNxqivgM40qT62HyEkMlSSwuQpaOCIU-9LAOlmLZSVNEjTm13XmEuN1kDcLxhLpDoZIb47TTStWGJGg3-xoYJEw0Wi96",
+      "wikipedia":"https://en.wikipedia.org/wiki/Panzara_River"
+   },
+   {
+      "name":"Purna",
+      "origin":"Satpura Range, Betul, Madhya Pradesh",
+      "Length_km":"-",
+      "end":"Tapti river, near Changdev, Maharashtra",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Khadakpurna_River_Near_Deulgaon_Mahi.jpg/800px-Khadakpurna_River_Near_Deulgaon_Mahi.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=hU8XE_-T1FxNza-SVqwDz48iXHvIPMaP1OXJWbEiqcscfDCffA4HRuCMxErhvvvy7Rjq6XsDta08bv9r6CUGPezjL4WBXdBWI4E8JvEod7DZo0A_zWdUMFTOHI2KhcDWtLTKwL98bR3VXMh4R_xCf7M0_Dy2p15xrv2jCVV4KXnqqIX9YvQIilJmQXpk-11RkRHmh2SR7x3GcVHlRotwE3P-bDXhFB4DJ4ag3kzRRlrSB5orVJkP",
+      "wikipedia":"https://en.wikipedia.org/wiki/Purna_River_(tributary_of_Tapti)"
+   },
+   {
+      "name":"Kolar",
+      "origin":"Vindhya Range, near Sehore district, Madhya Pradesh",
+      "Length_km":101,
+      "end":"Narmada, near Raisen district of Madhya Pradesh",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kolar_river.jpg/220px-Kolar_river.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=GWdyKfJ9CwVG5GAB535pF6R1b4BlSKogO1_EmPzqifwxy6-acDe2f2tY8fFnlv-jQ-CQlaj3c0wL_aqNqRSEizbxRZXgUAbLo0J0HTx5qBKd2yXD9jmjInFfmNYUkNNT40ql",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kolar_River_(Madhya_Pradesh)"
+   },
+   {
+      "name":"Tawa",
+      "origin":"Satpura Range, Betul, Madhya Pradesh",
+      "Length_km":172,
+      "end":"Narmada near Hoshangabad district",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tawa_river_mp_India.jpg/1024px-Tawa_river_mp_India.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=kww6l4yOSDTvEIsLb12q57Cw28kTX90ZZbT8xHaAnMMppLUCsDUTstza3AbbcFbpqHF9bybwAzbFK9MHPpfrR-iqqB0U3cSBEXojJZnXo6sS3B2SbrC1K85F4BRAEEER6RNvShprAyzcA_aeelsmBLu2IJiWg7O-iuj14FR9pY77JCVlVFUb_Q1aRJolesohPoUcAGyhM8DP6zuaHiT-xpb4DdZ4WOqc40uRuSP3tJYazGMz084A",
+      "wikipedia":"https://en.wikipedia.org/wiki/Tawa_River"
+   },
+   {
+      "name":"Sabarmati",
+      "origin":"Dhebar lake, Aravalli range, near Udaipur, Rajasthan",
+      "Length_km":371,
+      "end":"Gulf of Khambhat",
+      "image":"https://www.gujarattourism.com/content/dam/gujrattourism/images/-flora---fauna/sabarmati-riverfront/Sabarmati-Riverfront-Banner.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=LkSYsK3SqgooLY8UQ5lVTCveiKJQkX62gFXEsQwBcZUndBfozqn8PX__38dVKlLzz6lLyg2LlCDGCJY_at1QBlONBEC7TmMcnbhtHi06fqEWwKA-zGAgUQXLOKfF7aYvcuwvNsoilkEvA7vnn7eXnCd_HK91oH9o0n_4M5KkExbLwue8NNTQPlh_iX1FFzUsDxdDpiNNiOG_w-WYtOVRxw2CUIZMzHCV0qpibOW7exrigf3rPO0G",
+      "wikipedia":"https://en.wikipedia.org/wiki/Sabarmati_River"
+   },
+   {
+      "name":"Zuari",
+      "origin":"Hemad-Barshem in western ghats",
+      "Length_km":34,
+      "end":"Arabian sea",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Zuari%2C_Goa_India.jpg/1024px-Zuari%2C_Goa_India.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=EJ14ZfCaZkEbM_HsTM8TyEIXH7bY7zkKSoxyIXu17VALLZDne2C173hQhGz1462Nu1yD_rsjUEHFoZUZltzWfKX9NG0PBU00_JfyZhKWmQJChghD8zzf0OFwKsD8Z41rBYSN0_nyST38c6VYJdviuUKASfjcTwJdL5borHLh_-hT4xrW0nrbDbjVG-n7gWy73ueJeenTmePk2LCHd6tATqHH0pg1EM0pIvYyyxidSN0OCPYOe6z9",
+      "wikipedia":"https://en.wikipedia.org/wiki/Zuari_River"
+   },
+   {
+      "name":"Ulhas",
+      "origin":"Near Rajmachi hills, Sahyadri range",
+      "Length_km":122,
+      "end":"Vasai creek, Mumbai",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/8/88/Ghodbunder2.jpg",
+      "mapimage":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Geographybombay.png",
+      "wikipedia":"https://en.wikipedia.org/wiki/Ulhas_River"
+   },
+   {
+      "name":"Mithi",
+      "origin":"Vihar lake and Powai lake",
+      "Length_km":15,
+      "end":"Arabian sea, Mahim creek, Mumbai",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/River_Mithi_3.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=_fqCUeJCIJPgHpOwYn5VKR4eoVxTnJANQouooaQfgBVRaXv16DbtVfi6Gg-ZOYMEjwX3NAHsZSGTh3Aml5NzM1WXZHvMJrXlclGoCdwOy20GmAz-VEzy5Xhyq-tsX7Q378w8dRFgJWhiJKa7j3p9evk2CsDLy6a8U-5ukklBIeZX8dQ6ydaEliX7qKFofwjA70KLaGTrTWNj8JDjaReJyZOz96iMcFSLZOCAQ3MnWkFRl0Y9o1xg",
+      "wikipedia":"https://en.wikipedia.org/wiki/Mithi_River"
+   },
+   {
+      "name":"Mandovi",
+      "origin":"Bhimgad, Karnataka",
+      "Length_km":77,
+      "end":"Arabian sea",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Goa_Mandovi_Bridge_view_from_Ribandar_10-25-2008_6-14-02_PM.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=AgstBlzFyu9iWKB8Gc3D1hWFra80lLYMnyGrq0aiUWJU0T75qQOCpa0IZnCXSo9M1dYgLJAsZPs8TayeG0vm7zDu5UQ-A3m2jOArK04tCL74sb2OdU-bR1Y3FPR-UChij9wN22kDlFJkH0ym12NYBkvQb7sti6d6cXUwAbZnHuGM1IyDvq5fDz1yyFQwRlvZwnfXJnoNcdXNTzIpnzxBzq2BeR-A3MgnzV72npioOy_y65fUbuzC",
+      "wikipedia":"https://en.wikipedia.org/wiki/Mandovi_River"
+   },
+   {
+      "name":"Kali",
+      "origin":"Kushavali, Karnataka",
+      "Length_km":184,
+      "end":"Arabian sea",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/0/05/Kali_River_620.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=2kPqd6OvluFk_LFgzKNkCRim9i7RJAwEz16XAFP4xvCc7EA7w1-cwmPzOfMJ2g_tGje4Wygo1zwMvUEJGuXC4yzpahsIT6ugmjIX_EgXZuU9brx5H8ANTb-QEsEHfzo46WBVpHCrL2ZVxOKKNfN0CcChuTTlFug8wtjY94M7dbkotNLPX-zA21wwnOvRULPr4FxKROt83ZSPOqR54PU0giDrD_F17_mw_0jZutD3u-ytWeoTl0Gz",
+      "wikipedia":"https://en.wikipedia.org/wiki/Kali_River_(Karnataka)"
+   },
+   {
+      "name":"Netravati",
+      "origin":"Kudremukh, Chikmagalur, Karnataka",
+      "Length_km":"-",
+      "end":"Arabian sea, near Mangalore, Karnataka",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ullal_Bridge_Mangalore.JPG/1024px-Ullal_Bridge_Mangalore.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=anCZlfMSL2K_41ZdytIRokpY0SbJDLjZdO3rIj48C8uIKuDtCacaQTTXGnLP3lHuibMLBRCA7nizV0EQaQkoxn8-OxQNn2wv-lpGZYDNmbLgCqlHG9HFX7zljjaPuWe58aZ0PEMY6_yKkxcW0qqvZCgljKNDTvFSaOXdFDSx3h_xpulSE06a-lv8wDDmlmbFzPFiEa9uRur4yK3_mTnFX_K8tjT6P5jPko7X3oAekOn7-h0DHhXj",
+      "wikipedia":"https://en.wikipedia.org/wiki/Netravati_River"
+   },
+   {
+      "name":"Sharavati",
+      "origin":"Western Ghats, Tirthahalli, Karnataka",
+      "Length_km":128,
+      "end":"Arabian sea, near Honnavar, Uttar Kannada district, Karnataka",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Mighty_Jog.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=pOvCVrRr0BxejRE4wqwwr2qSfMLmXXkdEQ8QMyd61NeQBq7pkeZpmrylrCzLH8E7M7EpCJoJ233wc8h9aFrzMyim5NJcYfIOOGWPx2WKC-HihMzE9org7r3BGIL_M6QvPQ3k9i0rETSSPV18NTwKEnquRPN9bwajS0ECs3MSOFYtOFwS9yNuY-DBWOaF6fkOs-uNudb6t3O9dbY-r1bg47wl4Rq55Vpka-NNB4UGB7rgQ7mNhCr9",
+      "wikipedia":"https://en.wikipedia.org/wiki/Sharavati_River"
+   },
+   {
+      "name":"Periyar",
+      "origin":"Sivagiri hills, Sundaramala, Tamil Nadu",
+      "Length_km":244,
+      "end":"Lakshadweep sea, Kerala",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Periyarriver-bh.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=vaxLRtOg0H_H0sM9sm58EHnoL0QA0o0A9aPqfeYfsP-URkg-tvyhwBTM6ORAsyUrVw2gmctMu7nUw-IHQRWoM45hSEM3wkLA083Ptp6c5NWtm0140-aDdejp0_IK6sl7TRaq1X-De6WRcs2UzL85h9gBLV2pkACdT5cuRPMGP56t8a-i-01Cpj3MXSs3h7uPY93o0kMPVs7Fkuj8-XP9WYd2lvaaHloNTnQXI6Dm3fQT8NnhjC0P",
+      "wikipedia":"https://en.wikipedia.org/wiki/Periyar_River"
+   },
+   {
+      "name":"Bharathappuzha",
+      "origin":"Anamalai Hills, Tamil Nadu",
+      "Length_km":209,
+      "end":"Lakshadweep sea, Ponnani, Kerala",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nila_Nadhi.jpg/800px-Nila_Nadhi.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=4P8sQ52C-_Ujo55BAmTwPSmR5wZ0C6hmOQ_vIRulaA91vgUQrtytT5h2BBmIKNmZVC_KBrsQ_xNDJh31S_IooUVK1uLtApfAFSo0fzlL3riWTy5tbHUf96WT2MPDAn-omL2p6hk1uqjF_YN6vyQXySOf_Sh4dRrA2JBfjweiRurzMsn_3oefUrMKlXbjUYBH59HF75F6fPOZVkLVFN3wNp1IbZFG4hv6oGqcrAKhQjhfW7KBsZBc",
+      "wikipedia":"https://en.wikipedia.org/wiki/Bharathapuzha_River"
+   },
+   {
+      "name":"Pamba",
+      "origin":"Pulachimalai Hills, Western Ghats",
+      "Length_km":176,
+      "end":"Vembanad Lake",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%E0%B4%AA%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B4%BE%E0%B4%A8%E0%B4%A6%E0%B4%BF.JPG/800px-%E0%B4%AA%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B4%BE%E0%B4%A8%E0%B4%A6%E0%B4%BF.JPG",
+      "mapimage":"https://www.google.com/maps/vt/data=Q6CppNM2Nwv4a8BWH9r7cng0Oyazw_qm4XHFcy7rj4Y2aATzqKE6vWHjkYLwsrTI7u9VigyaeBwJg9_94Cd8PuzZgo7nS__hjS0MrnXxnGIzxh4d6WKEAGNEy-ktAXpvsQ8Mr9o8WGDHoWVQjPG3ZzLF5fr5S9g8tY-nKlgwElZzQN_aN4dJY__h1tQ6Yz2j52XvMwIst2KIfSO53vJeDqbm0d77nVe502X3No9uY92PRqvdyfMo",
+      "wikipedia":"https://en.wikipedia.org/wiki/Pamba_River"
+   },
+   {
+      "name":"Chaliyar",
+      "origin":"Elambaleri Hills, Western Ghats, Wayanad, Kerala",
+      "Length_km":169,
+      "end":"Lakshadweep sea, Kerala",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mamminikkadavu_Temple.jpg/800px-Mamminikkadavu_Temple.jpg",
+      "mapimage":"https://www.google.com/maps/vt/data=SRuyyBBnz5_cwYkMpw-MsdPITTRr7i2ZvP1bJ8yVy0RpsSiPG8xVsZsB2vbgTNeEVoIsfgVy9UNZv8T9rgpbHYHkMB_3eKConDOrIGaMXyk2ZucSfC7BWmQPd8A_04fGLa-jqnzi9LySb3Me_3RSYI7iisCyTc7fKhtZ8aBZX9_vxukURLf3--F3LMWE2u_xlvXJpQPN5Pj6V-XapKQF3wqL5-PCf-izKv4L0rEQF5pfA2dtb_4",
+      "wikipedia":"https://en.wikipedia.org/wiki/Chaliyar_River"
+   }
+]

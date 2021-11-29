@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RiverInfoActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="20dp">
+
+                <TextView
+                    android:id="@+id/river_end"
+                    style="@style/TextAppearance.MaterialComponents.Body1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/river_endlabel"
+                    app:layout_constraintTop_toTopOf="@+id/river_endlabel"
+                    tools:text="West Bengal" />
+
+                <TextView
+                    android:id="@+id/river_origin"
+                    style="@style/TextAppearance.MaterialComponents.Body1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/river_originlabel"
+                    app:layout_constraintTop_toTopOf="@+id/river_originlabel"
+                    tools:text="Uttrakhand" />
+
+                <TextView
+                    android:id="@+id/river_namelabel"
+                    style="@style/TextAppearance.MaterialComponents.Body1"
+                    android:layout_width="125dp"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="River Name"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/river_originlabel"
+                    style="@style/TextAppearance.MaterialComponents.Body1"
+                    android:layout_width="125dp"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="Origin"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="@+id/river_namelabel"
+                    app:layout_constraintTop_toBottomOf="@+id/river_name" />
+
+                <TextView
+                    android:id="@+id/river_endlabel"
+                    style="@style/TextAppearance.MaterialComponents.Body1"
+                    android:layout_width="125dp"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="End"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="@+id/river_originlabel"
+                    app:layout_constraintTop_toBottomOf="@+id/river_origin" />
+
+                <TextView
+                    android:id="@+id/river_lengthlabel"
+                    style="@style/TextAppearance.MaterialComponents.Body1"
+                    android:layout_width="125dp"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="Length (KM)"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="@+id/river_endlabel"
+                    app:layout_constraintTop_toBottomOf="@+id/river_end" />
+
+                <TextView
+                    android:id="@+id/river_name"
+                    style="@style/TextAppearance.MaterialComponents.Body1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/river_namelabel"
+                    app:layout_constraintTop_toTopOf="@+id/river_namelabel"
+                    tools:text="Ganga" />
+
+                <TextView
+                    android:id="@+id/river_length"
+                    style="@style/TextAppearance.MaterialComponents.Body1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/river_lengthlabel"
+                    app:layout_constraintTop_toTopOf="@+id/river_lengthlabel"
+                    tools:text="500" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <View
+                android:id="@+id/divider"
+                android:layout_width="match_parent"
+                android:layout_height="1.5dp"
+                android:background="?android:attr/listDivider" />
+
+            <TextView
+                style="@style/TextAppearance.MaterialComponents.Headline6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:text="Google Maps" />
+
+            <ImageView
+                android:id="@+id/river_mapImage"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginBottom="20dp"
+                android:scaleType="fitXY" />
+
+            <Button
+                android:id="@+id/river_wikibtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="50dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="Know More" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fitsSystemWindows="true"
+            app:collapsedTitleTextAppearance="@style/CollapsedAppBar"
+            app:contentScrim="?attr/colorPrimary"
+            app:expandedTitleTextAppearance="@style/ExpandedAppBar"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+            <ImageView
+                android:id="@+id/river_image"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:contentDescription="River Image"
+                android:scaleType="fitXY"
+                app:layout_collapseMode="parallax"
+                tools:src="@tools:sample/backgrounds/scenic" />
+
+            <com.google.android.material.appbar.MaterialToolbar
+                android:id="@+id/river_info_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:navigationIcon="?attr/homeAsUpIndicator"
+                app:navigationIconTint="@color/white"
+                app:popupTheme="@style/TextAppearance.AppCompat.Menu"
+                app:titleTextColor="@color/white"
+                tools:title="River Name" />
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
